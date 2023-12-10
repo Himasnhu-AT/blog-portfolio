@@ -1,5 +1,11 @@
 {
   "name": "blog-portfolio",
+  "description": "My personal blog website",
+  "author": {
+    "name": "Himasnhu-AT",
+    "email": "hyattherate2005@gmail.com"
+  },
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "scripts": {
